@@ -1,3 +1,7 @@
+/**
+ * @module "ui/core/view-base"
+ */ /** */
+
 import { Property, InheritedProperty, Style } from "../properties";
 import { BindingOptions, Observable } from "../bindable";
 

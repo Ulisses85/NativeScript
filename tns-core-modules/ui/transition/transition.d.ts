@@ -1,4 +1,8 @@
-﻿import { NavigationTransition } from "../frame";
+﻿/**
+ * @module "ui/transition"
+ */ /** */
+
+import { NavigationTransition } from "../frame";
 import { Page } from "../page";
 
 export module AndroidTransitionType {

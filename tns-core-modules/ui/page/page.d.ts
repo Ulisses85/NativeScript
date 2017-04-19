@@ -1,7 +1,10 @@
-﻿///<reference path="../../tns-core-modules.d.ts" /> Include global typings
-/**
- * Contains the Page class, which represents a logical unit for navigation inside a Frame. 
- */
+﻿/**
+ * @module "ui/page"
+ * 
+ * Contains the Page class, which represents a logical unit for navigation inside a Frame.
+ */ /** */
+
+///<reference path="../../tns-core-modules.d.ts" /> Include global typings
 import { ContentView, EventData, Property, Color } from "../content-view";
 import { Frame } from "../frame";
 import { ActionBar } from "../action-bar";

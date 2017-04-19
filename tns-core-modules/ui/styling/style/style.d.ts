@@ -1,3 +1,7 @@
+/**
+ * @module "ui/styling/style"
+ */ /** */
+
 import { Length, PercentLength, ViewBase, Observable, BackgroundRepeat, Visibility, HorizontalAlignment, VerticalAlignment} from "../../core/view";
 import { Color } from "../../../color";
 import { Background } from "../background";

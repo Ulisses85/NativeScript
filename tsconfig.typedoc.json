@@ -8,7 +8,9 @@
         "noImplicitAny": false,
         "noImplicitUseStrict": true,
         "experimentalDecorators": true,
-        "listFiles": true
+        "lib": [
+            "es6", "dom"
+        ]
     },
     "include": [
         "tns-core-modules/**/*.d.ts"

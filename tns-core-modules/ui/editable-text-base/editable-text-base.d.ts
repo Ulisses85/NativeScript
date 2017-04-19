@@ -1,4 +1,8 @@
-﻿import { TextBase, Property, CssProperty, Style, Color, FormattedString } from "../text-base";
+﻿/**
+ * @module "ui/editor-text-base"
+ */ /** */
+
+import { TextBase, Property, CssProperty, Style, Color, FormattedString } from "../text-base";
 
 /**
  * Represents the base class for all editable text views.

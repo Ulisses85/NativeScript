@@ -1,4 +1,8 @@
-﻿import { View, AddChildFromBuilder, Property, CssProperty, InheritedCssProperty, Style, Length } from "../core/view";
+﻿/**
+ * @module "ui/text-base"
+ */ /** */
+
+import { View, AddChildFromBuilder, Property, CssProperty, InheritedCssProperty, Style, Length } from "../core/view";
 import { FormattedString } from "../../text/formatted-string";
 
 export * from "../core/view";

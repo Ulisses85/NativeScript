@@ -1,3 +1,7 @@
+/**
+ * @module "utils/utils"
+ */ /** */
+
 export var RESOURCE_PREFIX: string;
 
 //@private

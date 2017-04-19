@@ -1,4 +1,7 @@
-﻿
+﻿/**
+ * @module "ui/enums"
+ */ /** */
+
 import * as animationModule from "../animation";
 
 /**

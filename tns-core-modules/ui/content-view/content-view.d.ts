@@ -1,6 +1,9 @@
 ﻿/**
+ * @module "ui/content-view"
+ * 
  * View that can host another view.
- */
+ */ /** */
+
 import { View, AddChildFromBuilder } from "../core/view";
 
 export * from "../core/view";
