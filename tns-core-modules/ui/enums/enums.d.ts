@@ -1,5 +1,5 @@
 ﻿
-import * as animationModule from "tns-core-modules/ui/animation";
+import * as animationModule from "../animation";
 
 /**
  * Represents a soft keyboard flavor.

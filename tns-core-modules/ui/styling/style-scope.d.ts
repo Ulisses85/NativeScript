@@ -1,8 +1,8 @@
 ﻿//@private
-import { ViewBase } from "ui/core/view-base";
-import { SyntaxTree } from "css";
-import { RuleSet, Node, SelectorCore, ChangeMap } from "ui/styling/css-selector";
-import { KeyframeAnimationInfo } from "ui/animation/keyframe-animation";
+import { ViewBase } from "../core/view-base";
+import { SyntaxTree } from "../../css";
+import { RuleSet, Node, SelectorCore, ChangeMap } from "../styling/css-selector";
+import { KeyframeAnimationInfo } from "../animation/keyframe-animation";
 
 export class CssState {
     /**

@@ -6,7 +6,7 @@ import { TextAlignment, TextDecoration, TextTransform, WhiteSpace } from "../../
 import {
     FlexDirection, FlexWrap, JustifyContent, AlignItems, AlignContent,
     Order, FlexGrow, FlexShrink, FlexWrapBefore, AlignSelf
-} from "../../layouts/flexbox-layout"
+} from "../../layouts/flexbox-layout";
 
 export interface Thickness {
     left: number;

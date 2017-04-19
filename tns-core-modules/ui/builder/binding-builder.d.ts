@@ -14,4 +14,3 @@ export module bindingConstants {
 export function getBindingOptions(name: string, value: string): any;
 
 export var parentsRegex: RegExp;
-}

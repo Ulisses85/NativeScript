@@ -7,10 +7,14 @@
         "declaration": false,
         "noImplicitAny": false,
         "noImplicitUseStrict": true,
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "listFiles": true
     },
-    "files": [
-        "tns-core-modules/docs-shims.d.ts",
-        "tns-core-modules/tns-core-modules.d.ts"
+    "include": [
+        "tns-core-modules/**/*.d.ts"
+    ],
+    "exclude": [
+        "tns-core-modules/references.d.ts",
+        "tns-core-modules/node_modules"
     ]
 }
